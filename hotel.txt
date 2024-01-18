@@ -1,0 +1,8 @@
+hotel name
+2
+2
+double,2,100
+double,2,100
+2
+double,2,100
+double,2,100

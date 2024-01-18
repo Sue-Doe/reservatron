@@ -1,0 +1,3 @@
+briar,Briar Nordin,123,customer
+dima,Dima D'Onofrio,password,manager
+winfred,Winfred Rey,qwerty,administrator
