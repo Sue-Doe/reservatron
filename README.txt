@@ -1,13 +1,3 @@
-Max Waldner, 7889322
-
-I have included a Makefile to run compile and run the code running 'make' and you can clean all .class files with 'make clean'
-you can also compile yourself with 'javac A3Client.java' and then 'java A3Client' which is located in the same folder as comp2150
-
-I also have unused imports in my A3client and unused extensions since other intefaces brought them in already and the instructor assured me this was fine.
-
-to create a hotel the txt file should be in the same format as the other assignments and should be in the same folder as comp2150, there is an example file "hotel.txt"
-
-
 Hotel.java - make hotel
 FileManager - manages all files
 A2Client - has main method runs client code
